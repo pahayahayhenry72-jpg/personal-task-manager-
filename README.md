@@ -4,7 +4,7 @@ Project Information
 
 Project Code: WST21-PM-2026-SF
 Student Name: Henry Pahayahay
-Course & Year: ____________________
+Course & Year: BSIT - 2ND YEAR
 Database Used: SQLite
 
 Features
